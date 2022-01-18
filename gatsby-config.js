@@ -32,5 +32,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: '/GDSC-sample-portfolio',
+  pathPrefix: '/GDSC_sample_portfolio',
 };
