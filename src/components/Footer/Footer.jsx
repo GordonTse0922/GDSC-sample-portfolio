@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <hr />
         <p className="footer__text">
-          © {new Date().getFullYear()} - Sample Portfolio developed by{' '}
+          © {new Date().getFullYear()} - Sample Portfolio from{' '}
           <a href="https://github.com/GordonTse0922" target="_blank" rel="noopener noreferrer">
             Gordon Tse
           </a>
