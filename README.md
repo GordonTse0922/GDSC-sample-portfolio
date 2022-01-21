@@ -58,6 +58,13 @@ cd GDSC_sample_portfolio
 # Install dependencies
 yarn install
 ```
+
+### Manual Install
+Go to github repository through [Our Repo](https://github.com/GordonTse0922/GDSC_sample_portfolio) and download the zip of our source code
+
+![Download Zip](https://user-images.githubusercontent.com/69568504/150549648-9bb9a9da-dd53-447b-a969-d9386b2816dd.png)
+
+
 ## Deploy to GitHub Pages
 To deploy the site to Gihub Pages, you need to install a dependency:
 ```sh
