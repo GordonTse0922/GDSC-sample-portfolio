@@ -27,12 +27,13 @@ It should print out "nvm" in your terminal if it was isntalled correctly. If not
 
 ## Install Node and NPM
 After installing nvmm you may now download Node.
+
 ### MacOS
 ```shell
 nvm install --lts
 ```
 
-## Enable Yarn (M1 Mac only)
+### Enable Yarn (M1 Mac only)
 ```shell
 corepack enable
 ```
