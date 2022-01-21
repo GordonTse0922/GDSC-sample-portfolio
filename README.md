@@ -2,7 +2,7 @@
 
 ## Install nvm (Version Manager for Node & NPM)
 ### Windows
-To install nvm you can install trough a MSI installer which can be downloaded in the link below.
+To install nvm you can install trough a MSI installer which can be downloaded in the link [here](https://github.com/coreybutler/nvm-windows/releases).
 
 ### MacOS & Linux
 To install nvm you can run one of the following commands in terminal 
