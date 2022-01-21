@@ -4,7 +4,7 @@
 ### Windows
 To install nvm you can install trough a MSI installer which can be downloaded in the link below.
 
-### MacOS
+### MacOS & Linux
 To install nvm you can run one of the following commands in terminal 
 ```shell
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
@@ -17,7 +17,13 @@ You can verify it's installed sucessfully by running the following command:
 ```sh
 command -v nvm
 ```
-It should print out "nvm" in your terminal if it was isntalled correctly.
+It should print out "nvm" in your terminal if it was isntalled correctly. If not, **close all of your terminal windows and reopen**, or run the following command if you know which kind of terminal you are using:
+
+*bash*: `source ~/.bashrc`
+
+*zsh*: `source ~/.zshrc`
+
+*ksh*: `. ~/.profile`
 
 ## Install Node and NPM
 After installing nvmm you may now download Node.
